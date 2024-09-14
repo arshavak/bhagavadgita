@@ -1,0 +1,92 @@
+html {
+    scroll-padding-top: 220px; /* 200px top margin when scrolling to an element */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8ecc2 ;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #d8c693;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.selectors {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+label {
+    margin-right: 10px;
+}
+
+select, button {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.slokas-display {
+    margin-top: 20px;
+    border-radius: 5px;
+    /* border: 1px solid #ddd; */
+}
+#showBtn{
+    cursor: pointer;
+}
+#author{
+    background-color: aliceblue;
+    display: inline;
+    font-weight: 900;
+}
+.author-commentary{
+    margin-top: 2px;
+    border: 2px solid rgb(216, 213, 213);
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: left;
+}
+#head_part{
+    border: 2px solid rgb(216, 216, 216);
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+.selectors{
+    position: fixed;
+    width: 99.99%;
+    background-color: #d8c693;
+    left:0px;
+    top:0px;
+    border: #d8c693;
+}
+
+.btn{
+text-decoration: none;
+color: #00f;
+display: inline;
+font-family: Vesper Libre;
+font-size: 17px;
+line-height: 25.5px;
+margin: 0px 4.5px 0px 0px;
+}
+
+#jump_to_commentari{
+    padding: 10px;
+}
