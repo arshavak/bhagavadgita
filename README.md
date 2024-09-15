@@ -14,6 +14,11 @@ All data used in this project has been sourced from [PtPrashantTripathi's GitHub
 
 ## Usage
 
+    # for online 
+ go to "https://arshavak.github.io/bhagavadgita/" this link.
+
+     # for offline
+     
 1. Clone this repository.
     ```bash
     git clone https://github.com/arshavak/bhagavadgita.git
