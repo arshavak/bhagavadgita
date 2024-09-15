@@ -80,7 +80,8 @@ select, button {
 .selectors{
     position: fixed;
     width: 99.99%;
-    background-color: #d8c693;
+/*     background-color: #d8c693; */
+    background-color: black;
     left:0px;
     top:0px;
     border: #d8c693;
