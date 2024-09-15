@@ -70,9 +70,8 @@ select, button {
 
 @media (max-width:600px){
    .author-commentary{
-      width: 100%;
-    margin-top: 100px;
-       padding: 4px;
+    width: 100%;
+  
    } 
 }
 #head_part{
