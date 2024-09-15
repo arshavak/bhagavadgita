@@ -20,6 +20,13 @@ body {
     word-break:break-all;
 }
 
+@media (max-width:600px){
+   .container{
+      width: 100%;
+    margin-top: 100px;
+   } 
+}
+
 h1 {
     text-align: center;
 }
