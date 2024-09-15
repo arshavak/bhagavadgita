@@ -68,12 +68,7 @@ select, button {
     text-align: left;
 }
 
-@media (max-width:600px){
-   .author-commentary{
-    width: 100%;
-  
-   } 
-}
+
 #head_part{
     border: 2px solid rgb(216, 216, 216);
     padding: 15px;
