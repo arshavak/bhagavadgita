@@ -86,7 +86,7 @@ line-height: 25.5px;
 margin: 0px 4.5px 0px 0px;
 }
 
-@media (mas-width:200px){
+@media (mas-width:150px){
    .btn,#jump_to_commentari{
        display:none;
    } 
