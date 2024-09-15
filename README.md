@@ -1,5 +1,5 @@
 # Bhagavad Gita Website
-
+click this "https://arshavak.github.io/bhagavadgita/" link for view the website in your browser.
 This website is a digital presentation of the Bhagavad Gita, aiming to provide easy access and navigation for readers and researchers.
 
 ## Data Source
@@ -14,10 +14,7 @@ All data used in this project has been sourced from [PtPrashantTripathi's GitHub
 
 ## Usage
 
-    # for online 
- go to "https://arshavak.github.io/bhagavadgita/" this link.
-
-     # for offline
+ click this "https://arshavak.github.io/bhagavadgita/" link for view the website in your browser.
      
 1. Clone this repository.
     ```bash
